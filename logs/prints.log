@@ -1,0 +1,168 @@
+11:09:10.744 [main] INFO  HomePageTest - Driver is initialized
+11:09:11.991 [main] INFO  resources.Base - Driver is initialized
+11:09:14.753 [main] INFO  HomePageTest - Driver navigated to home page
+11:09:14.784 [main] INFO  HomePageTest - Successfully validated Title
+11:09:16.372 [main] INFO  HomePageTest - Login info send successfully.
+11:09:16.724 [main] INFO  HomePageTest - Login info send successfully.
+11:09:19.595 [main] INFO  resources.Base - Navigation bar validated.
+11:10:42.347 [main] INFO  HomePageTest - Driver is initialized
+11:10:43.554 [main] INFO  resources.Base - Driver is initialized
+11:10:46.178 [main] INFO  HomePageTest - Driver navigated to home page
+11:10:46.208 [main] INFO  HomePageTest - Successfully validated Title
+11:10:47.771 [main] INFO  HomePageTest - Login info send successfully.
+11:10:48.132 [main] INFO  HomePageTest - Login info send successfully.
+11:10:51.517 [main] INFO  resources.Base - Navigation bar validated.
+12:08:44.146 [main] INFO  HomePageTest - Driver is initialized
+12:08:45.335 [main] INFO  resources.Base - Driver is initialized
+12:08:49.005 [main] INFO  HomePageTest - Driver navigated to home page
+12:08:52.377 [main] INFO  resources.Base - Navigation bar validated.
+12:34:11.128 [main] INFO  HomePageTest - Driver is initialized
+12:34:12.392 [main] INFO  resources.Base - Driver is initialized
+12:34:16.193 [main] INFO  HomePageTest - Driver navigated to home page
+12:34:20.124 [main] INFO  resources.Base - Navigation bar validated.
+12:35:49.837 [main] INFO  HomePageTest - Driver is initialized
+12:35:51.061 [main] INFO  resources.Base - Driver is initialized
+12:35:53.871 [main] INFO  HomePageTest - Driver navigated to home page
+12:35:53.902 [main] INFO  HomePageTest - Successfully validated Title
+12:35:55.539 [main] INFO  HomePageTest - Login info send successfully.
+12:35:55.889 [main] INFO  HomePageTest - Login info send successfully.
+12:35:59.169 [main] INFO  resources.Base - Navigation bar validated.
+12:37:58.600 [main] INFO  HomePageTest - Driver is initialized
+12:38:01.111 [main] INFO  resources.Base - Driver is initialized
+12:38:03.807 [main] INFO  HomePageTest - Driver navigated to home page
+12:38:03.836 [main] INFO  HomePageTest - Successfully validated Title
+12:38:05.506 [main] INFO  HomePageTest - Login info send successfully.
+12:38:05.855 [main] INFO  HomePageTest - Login info send successfully.
+12:38:09.414 [main] INFO  resources.Base - Navigation bar validated.
+12:39:18.546 [main] INFO  HomePageTest - Driver is initialized
+12:39:20.945 [main] INFO  resources.Base - Driver is initialized
+12:39:23.848 [main] INFO  HomePageTest - Driver navigated to home page
+12:39:23.880 [main] INFO  HomePageTest - Successfully validated Title
+12:39:25.543 [main] INFO  HomePageTest - Login info send successfully.
+12:39:25.892 [main] INFO  HomePageTest - Login info send successfully.
+12:39:29.141 [main] INFO  resources.Base - Navigation bar validated.
+12:42:36.444 [main] INFO  HomePageTest - Driver is initialized
+12:42:38.946 [main] INFO  resources.Base - Driver is initialized
+12:42:41.714 [main] INFO  HomePageTest - Driver navigated to home page
+12:42:45.499 [main] INFO  resources.Base - Navigation bar validated.
+13:22:05.187 [main] INFO  HomePageTest - Driver is initialized
+13:22:07.705 [main] INFO  resources.Base - Driver is initialized
+13:22:10.566 [main] INFO  HomePageTest - Driver navigated to home page
+13:22:14.325 [main] INFO  resources.Base - Navigation bar validated.
+13:24:01.391 [main] INFO  HomePageTest - Driver is initialized
+13:24:03.898 [main] INFO  resources.Base - Driver is initialized
+13:24:06.518 [main] INFO  HomePageTest - Driver navigated to home page
+13:24:10.314 [main] INFO  resources.Base - Navigation bar validated.
+13:25:34.745 [main] INFO  HomePageTest - Driver is initialized
+13:25:37.176 [main] INFO  resources.Base - Driver is initialized
+13:25:39.643 [main] INFO  HomePageTest - Driver navigated to home page
+13:25:43.283 [main] INFO  resources.Base - Navigation bar validated.
+13:50:04.807 [main] INFO  HomePageTest - Driver is initialized
+13:50:07.705 [main] INFO  HomePageTest - Driver navigated to home page
+13:50:31.944 [main] INFO  HomePageTest - Driver is initialized
+13:50:33.459 [main] INFO  HomePageTest - Driver navigated to home page
+13:52:35.544 [main] INFO  HomePageTest - Driver is initialized
+13:52:38.029 [main] INFO  resources.Base - Driver is initialized
+13:52:41.045 [main] INFO  HomePageTest - Driver navigated to home page
+13:52:44.482 [main] INFO  resources.Base - Navigation bar validated.
+13:53:23.327 [main] INFO  HomePageTest - Driver is initialized
+13:53:27.033 [main] INFO  resources.Base - Driver is initialized
+13:53:29.569 [main] INFO  HomePageTest - Driver navigated to home page
+13:53:33.132 [main] INFO  resources.Base - Navigation bar validated.
+14:19:04.789 [main] INFO  HomePageTest - Driver is initialized
+14:19:08.579 [main] INFO  resources.Base - Driver is initialized
+14:19:11.332 [main] INFO  HomePageTest - Driver navigated to home page
+14:19:15.021 [main] INFO  resources.Base - Navigation bar validated.
+14:32:45.453 [main] INFO  HomePageTest - Driver is initialized
+14:32:49.157 [main] INFO  resources.Base - Driver is initialized
+14:32:51.641 [main] INFO  HomePageTest - Driver navigated to home page
+14:34:42.551 [main] INFO  HomePageTest - Driver is initialized
+14:34:46.204 [main] INFO  resources.Base - Driver is initialized
+14:34:48.592 [main] INFO  HomePageTest - Driver navigated to home page
+14:37:05.867 [main] INFO  HomePageTest - Driver is initialized
+14:37:09.529 [main] INFO  resources.Base - Driver is initialized
+14:37:11.828 [main] INFO  HomePageTest - Driver navigated to home page
+14:38:47.549 [main] INFO  HomePageTest - Driver is initialized
+14:38:51.178 [main] INFO  resources.Base - Driver is initialized
+14:38:53.690 [main] INFO  HomePageTest - Driver navigated to home page
+14:40:13.255 [main] INFO  HomePageTest - Driver is initialized
+14:40:16.875 [main] INFO  resources.Base - Driver is initialized
+14:40:19.461 [main] INFO  HomePageTest - Driver navigated to home page
+14:40:23.269 [main] INFO  resources.Base - Navigation bar validated.
+14:41:44.118 [main] INFO  HomePageTest - Driver is initialized
+14:41:47.891 [main] INFO  resources.Base - Driver is initialized
+14:41:50.256 [main] INFO  HomePageTest - Driver navigated to home page
+14:41:52.906 [main] INFO  HomePageTest - Login info send successfully.
+14:41:54.367 [main] INFO  HomePageTest - Login info send successfully.
+14:41:57.795 [main] INFO  resources.Base - Navigation bar validated.
+14:42:53.421 [main] INFO  HomePageTest - Driver is initialized
+14:42:57.072 [main] INFO  resources.Base - Driver is initialized
+14:43:10.196 [main] INFO  HomePageTest - Driver navigated to home page
+14:43:14.213 [main] INFO  HomePageTest - Login info send successfully.
+14:43:16.059 [main] INFO  HomePageTest - Login info send successfully.
+14:43:23.008 [main] INFO  resources.Base - Navigation bar validated.
+14:44:07.210 [main] INFO  HomePageTest - Driver is initialized
+14:44:15.902 [main] INFO  resources.Base - Driver is initialized
+14:44:18.699 [main] INFO  HomePageTest - Driver navigated to home page
+14:44:21.556 [main] INFO  HomePageTest - Login info send successfully.
+14:44:22.562 [main] INFO  HomePageTest - Login info send successfully.
+14:44:25.824 [main] INFO  resources.Base - Navigation bar validated.
+14:50:23.611 [main] INFO  HomePageTest - Driver is initialized
+14:50:32.601 [main] INFO  resources.Base - Driver is initialized
+14:50:35.363 [main] INFO  HomePageTest - Driver navigated to home page
+14:50:38.189 [main] INFO  HomePageTest - Login info send successfully.
+14:50:40.074 [main] INFO  HomePageTest - Login info send successfully.
+14:50:43.860 [main] INFO  resources.Base - Navigation bar validated.
+15:06:42.033 [main] INFO  HomePageTest - Driver is initialized
+15:06:45.734 [main] INFO  resources.Base - Driver is initialized
+15:06:48.538 [main] INFO  HomePageTest - Driver navigated to home page
+15:06:52.409 [main] INFO  HomePageTest - Login info send successfully.
+15:06:53.801 [main] INFO  HomePageTest - Login info send successfully.
+15:06:57.829 [main] INFO  resources.Base - Navigation bar validated.
+15:11:12.836 [main] INFO  HomePageTest - Driver is initialized
+15:11:16.503 [main] INFO  resources.Base - Driver is initialized
+15:11:19.001 [main] INFO  HomePageTest - Driver navigated to home page
+15:11:22.482 [main] INFO  HomePageTest - Login info send successfully.
+15:11:23.809 [main] INFO  HomePageTest - Login info send successfully.
+15:11:27.297 [main] INFO  resources.Base - Navigation bar validated.
+15:43:51.618 [main] INFO  HomePageTest - Driver is initialized
+15:43:55.143 [main] INFO  resources.Base - Driver is initialized
+15:44:00.702 [main] INFO  HomePageTest - Driver navigated to home page
+15:44:04.199 [main] INFO  HomePageTest - Login info send successfully.
+15:44:05.595 [main] INFO  HomePageTest - Login info send successfully.
+15:44:09.270 [main] INFO  resources.Base - Navigation bar validated.
+15:47:39.222 [main] INFO  HomePageTest - Driver is initialized
+15:47:42.899 [main] INFO  resources.Base - Driver is initialized
+15:47:45.213 [main] INFO  HomePageTest - Driver navigated to home page
+15:47:48.765 [main] INFO  HomePageTest - Login info send successfully.
+15:47:50.129 [main] INFO  HomePageTest - Login info send successfully.
+15:47:53.969 [main] INFO  resources.Base - Navigation bar validated.
+15:48:17.827 [main] INFO  HomePageTest - Driver is initialized
+15:48:21.428 [main] INFO  resources.Base - Driver is initialized
+15:48:24.216 [main] INFO  HomePageTest - Driver navigated to home page
+15:48:27.579 [main] INFO  HomePageTest - Login info send successfully.
+15:48:28.937 [main] INFO  HomePageTest - Login info send successfully.
+15:48:32.116 [main] INFO  resources.Base - Navigation bar validated.
+15:51:26.656 [main] INFO  HomePageTest - Driver is initialized
+15:51:30.261 [main] INFO  resources.Base - Driver is initialized
+15:51:33.279 [main] INFO  HomePageTest - Driver navigated to home page
+15:51:36.660 [main] INFO  HomePageTest - Login info send successfully.
+15:51:38.026 [main] INFO  HomePageTest - Login info send successfully.
+15:51:42.208 [main] INFO  resources.Base - Navigation bar validated.
+17:31:23.527 [main] INFO  HomePageTest - Driver is initialized
+17:31:26.346 [main] INFO  HomePageTest - Driver navigated to home page
+17:32:45.242 [main] INFO  HomePageTest - Driver is initialized
+17:32:47.644 [main] INFO  HomePageTest - Driver navigated to home page
+17:33:11.014 [main] INFO  HomePageTest - Driver is initialized
+17:33:13.687 [main] INFO  HomePageTest - Driver navigated to home page
+17:35:49.439 [main] INFO  HomePageTest - Driver is initialized
+17:35:52.137 [main] INFO  HomePageTest - Driver navigated to home page
+17:36:18.395 [main] INFO  HomePageTest - Driver is initialized
+17:36:21.015 [main] INFO  HomePageTest - Driver navigated to home page
+17:36:21.052 [main] INFO  HomePageTest - Successfully validated Title
+17:36:59.798 [main] INFO  HomePageTest - Driver is initialized
+17:37:02.430 [main] INFO  HomePageTest - Driver navigated to home page
+17:37:02.460 [main] INFO  HomePageTest - Successfully validated Title
+11:08:37.836 [main] INFO  HomePageTest - Driver is initialized
+11:08:55.877 [main] INFO  HomePageTest - Driver navigated to home page
+11:08:55.916 [main] INFO  HomePageTest - Successfully validated Title

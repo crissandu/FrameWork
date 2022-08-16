@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [All Test Suite]" verbose="0">
+  <listeners>
+    <listener class-name="Listeners"/>
+  </listeners>
+  <test name="Test1(failed)" preserve-order="true">
+    <classes>
+      <class name="ValidateNavigationBar">
+        <methods>
+          <include name="start"/>
+          <include name="quit"/>
+        </methods>
+      </class> <!-- ValidateNavigationBar -->
+      <class name="HomePageTest">
+        <methods>
+          <include name="start"/>
+          <include name="basePageNavigation"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- HomePageTest -->
+      <class name="ExtentReporterDemo">
+        <methods>
+          <include name="start"/>
+          <include name="close"/>
+        </methods>
+      </class> <!-- ExtentReporterDemo -->
+      <class name="RecoverPasswordTest">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="start"/>
+        </methods>
+      </class> <!-- RecoverPasswordTest -->
+    </classes>
+  </test> <!-- Test1(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->
